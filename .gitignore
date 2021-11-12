@@ -36,3 +36,7 @@ public/workbox-*.js
 
 # vercel
 .vercel
+
+# dependencies lock
+yarn.lock
+package-lock.json
